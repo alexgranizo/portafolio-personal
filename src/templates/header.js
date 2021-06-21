@@ -1,7 +1,7 @@
 const Header = ()=>{
     const view = `
         <div>
-            hola como les va
+            Hola mi nombre es Alex Granizo
         </div>
     `;
     return view;
